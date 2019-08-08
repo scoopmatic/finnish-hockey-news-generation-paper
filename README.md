@@ -23,5 +23,5 @@ This repository makes available and links to the code and data used in the paper
 
 ## Data
 
-* [STT Finnish news corpus 1992-2018](https://www.kielipankki.fi/lic/stt-fi-1992-2018-src/)
+* [STT Finnish news corpus 1992-2018](http://metashare.csc.fi/repository/browse/finnish-news-agency-archive-1992-2018-source/c8f082505ef711e9b852005056be118ee21043d080864f9b8163fd8ff4b2bd05/)
 * Annotated data: TBA
