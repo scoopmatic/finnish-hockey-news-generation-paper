@@ -19,6 +19,7 @@ This repository makes available and links to the code and data used in the paper
 * [game-report-generator](https://github.com/scoopmatic/game-report-generator)
 * [data-processing](https://github.com/scoopmatic/data-processing)
 * [event-selector](https://github.com/scoopmatic/event-selector)
+* More TBA
 
 ## Data
 
