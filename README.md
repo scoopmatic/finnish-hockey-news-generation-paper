@@ -24,4 +24,4 @@ This repository makes available and links to the code and data used in the paper
 ## Data
 
 * [STT Finnish news corpus 1992-2018](http://urn.fi/urn:nbn:fi:lb-2019041501)
-* Annotated data: TBA
+* [Data set of manually aligned game statistics and news text segments](https://github.com/TurkuNLP/hockey-text-generation-corpus)
